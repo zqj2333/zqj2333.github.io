@@ -1,49 +1,46 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Hi~ I am Qijun Zhang. I am a second-year PhD student at the Electronic and Computer Engineering Department of the Hong Kong University of Science and Technology (HKUST), advised by Prof. Zhiyao Xie. Before that, I received the bachelor degree in Computer Science in Tongji University in 2022.
 
-A data-driven personal website
+Research Interests
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+ * Computer Architecture
+ * Electronic Design Automation
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
+Education
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+ * Ph.D. Electronic and Computer Engineering, the Hong Kong University of Science and Technology, Aug. 2023 - Now
+ * B.Eng. Computer Science, Tongji University, Sep. 2018 - Jul. 2022
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Publication
+======
+ * **Qijun Zhang**, Mengming Li, Andrea Mondelli, and Zhiyao Xie, &quot;[An Architecture-Level CPU Modeling Framework for Power and Other Design Qualities]()&quot;. In *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* (**TCAD**), 2025.
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+ * Shang Liu, Wenji Fang, Yao Lu, Jing Wang, **Qijun Zhang**, Hongce Zhang, and Zhiyao Xie, &quot;[RTLCoder: Fully Open-Source and Efficient LLM-Assisted RTL Code Generation Technique]()&quot;. In *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* (**TCAD**), 2025.
 
-**Markdown generator**
+ * Wenji Fang, Yao Lu, Shang Liu, **Qijun Zhang**, Ceyu Xu, Lisa Wu Wills, Hongce Zhang, and Zhiyao Xie, &quot;[Transferable Pre-Synthesis PPA Estimation for RTL Designs with Data Augmentation Techniques]()&quot;. In *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* (**TCAD**), 2025.
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+ * Mengming Li, **Qijun Zhang**, Yongqing Ren, and Zhiyao Xie, &quot;[Integrating Prefetcher Selection with Dynamic Request Allocation Improves Prefetching Efficiency]()&quot;. In *31th IEEE International Symposium on High-Performance Computer Architecture* (**HPCA 2025**).
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+ * **Qijun Zhang**, Mengming Li, Yao Lu, and Zhiyao Xie, &quot;[FirePower: Towards a Foundation with Generalizable Knowledge for Architecture-Level Power Modeling]()&quot;. In *Asia and South Pacific Design Automation Conference* (**ASP-DAC 2025**).
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+ * **Qijun Zhang**, and Zhiyao Xie, &quot;[Pointer: An Energy-Efficient ReRAM-based Point Cloud Recognition Accelerator with Inter-layer and Intra-layer Optimizations]()&quot;. In *Asia and South Pacific Design Automation Conference* (**ASP-DAC 2025**).
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+ * Shang Liu, Wenji Fang, Yao Lu, **Qijun Zhang**, and Zhiyao Xie, &quot;[Towards Big Data in AI for EDA Research: Generation of New Pseudo Circuits at RTL Stage]()&quot;. In *Asia and South Pacific Design Automation Conference* (**ASP-DAC 2025**).
+
+ * Yao Lu, **Qijun Zhang**, and Zhiyao Xie, &quot;[Unleashing Flexibility of ML-based Power Estimators Through Efficient Development Strategies]()&quot;. In *ACM/IEEE International Symposium on Low Power Electronics and Design* (**ISLPED 2024**).
+
+ * Shang Liu, Wenji Fang, Yao Lu, **Qijun Zhang**, Hongce Zhang, and Zhiyao Xie, &quot;[RTLCoder: Outperforming GPT-3.5 in Design RTL Generation with Our Open-Source Dataset and Lightweight Solution]()&quot;. In *IEEE International Workshop on LLM-Aided Design* (**LAD 2024**).
+
+ * Yao Lu, Shang Liu, **Qijun Zhang**, and Zhiyao Xie, &quot;[RTLLM: An Open-Source Benchmark for Design RTL Generation with Large Language Model]()&quot;. In *Asia and South Pacific Design Automation Conference* (**ASP-DAC 2024**).
+
+ * **Qijun Zhang**, Shiyu Li, Guanglei Zhou, Jingyu Pan, Chen-Chia Chang, Yiran Chen, and Zhiyao Xie, &quot;[PANDA: Architecture-Level Power Evaluation by Unifying Analytical and Machine Learning Solutions]()&quot;. In *IEEE/ACM International Conference on Computer Aided Design* (**ICCAD 2023**).
+
+ * Wenji Fang, Yao Lu, Shang Liu, **Qijun Zhang**, Ceyu Xu, Lisa Wu Wills, Hongce Zhang, and Zhiyao Xie, &quot;[MasterRTL: A Pre-Synthesis PPA Estimation Framework for Any RTL Design]()&quot;. In *IEEE/ACM International Conference on Computer Aided Design* (**ICCAD 2023**).
