@@ -21,7 +21,7 @@ Education
 
 Publication
 ======
- * Mengming Li \*, **Qijun Zhang** \*, Yongqing Ren, and Zhiyao Xie, "Integrating Prefetcher Selection with Dynamic Request Allocation Improves Prefetching Efficiency". In *31th IEEE International Symposium on High-Performance Computer Architecture* (**HPCA 2025**).
+ * Mengming Li\*, **Qijun Zhang**\*, Yongqing Ren, and Zhiyao Xie, "Integrating Prefetcher Selection with Dynamic Request Allocation Improves Prefetching Efficiency". In *31th IEEE International Symposium on High-Performance Computer Architecture* (**HPCA 2025**).
  
  * **Qijun Zhang**, Mengming Li, Andrea Mondelli, and Zhiyao Xie, "An Architecture-Level CPU Modeling Framework for Power and Other Design Qualities". In *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* (**TCAD**), 2025.
 
@@ -29,7 +29,7 @@ Publication
 
  * **Qijun Zhang**, and Zhiyao Xie, "Pointer: An Energy-Efficient ReRAM-based Point Cloud Recognition Accelerator with Inter-layer and Intra-layer Optimizations". In *Asia and South Pacific Design Automation Conference* (**ASP-DAC 2025**).
  
- * Yao Lu \*, **Qijun Zhang** \*, and Zhiyao Xie, "Unleashing Flexibility of ML-based Power Estimators Through Efficient Development Strategies". In *ACM/IEEE International Symposium on Low Power Electronics and Design* (**ISLPED 2024**).
+ * Yao Lu\*, **Qijun Zhang**\*, and Zhiyao Xie, "Unleashing Flexibility of ML-based Power Estimators Through Efficient Development Strategies". In *ACM/IEEE International Symposium on Low Power Electronics and Design* (**ISLPED 2024**).
  
  * **Qijun Zhang**, Shiyu Li, Guanglei Zhou, Jingyu Pan, Chen-Chia Chang, Yiran Chen, and Zhiyao Xie, "PANDA: Architecture-Level Power Evaluation by Unifying Analytical and Machine Learning Solutions". In *IEEE/ACM International Conference on Computer Aided Design* (**ICCAD 2023**).
  
