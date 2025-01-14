@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Qijun Zhang, a second-year PhD student at the Electronic and Computer Engineering Department of the Hong Kong University of Science and Technology (HKUST) advised by Prof. Zhiyao Xie. Before that, I received the bachelor degree in Computer Science in Tongji University in 2022. My research interests include computer architecture and electronic design automation.
+I am Qijun Zhang, a second-year PhD student at the Electronic and Computer Engineering Department of the Hong Kong University of Science and Technology (HKUST) advised by Prof. [Zhiyao Xie](https://zhiyaoxie.com/). Before that, I received the bachelor degree in Computer Science in Tongji University in 2022. My research interests include computer architecture and electronic design automation.
 
 Research Interests
 ======
