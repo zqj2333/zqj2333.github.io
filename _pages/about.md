@@ -29,7 +29,7 @@ Publication
 
  * **Qijun Zhang**, and Zhiyao Xie, "Pointer: An Energy-Efficient ReRAM-based Point Cloud Recognition Accelerator with Inter-layer and Intra-layer Optimizations". In *Asia and South Pacific Design Automation Conference* (**ASP-DAC 2025**).
  
- * Yao Lu\*, **Qijun Zhang**\*, and Zhiyao Xie, "Unleashing Flexibility of ML-based Power Estimators Through Efficient Development Strategies". In *ACM/IEEE International Symposium on Low Power Electronics and Design* (**ISLPED 2024**).
+ * Yao Lu\*, **Qijun Zhang**\*, and Zhiyao Xie, "Unleashing Flexibility of ML-based Power Estimators Through Efficient Development Strategies". In *ACM/IEEE International Symposium on Low Power Electronics and Design* (**ISLPED 2024**). **Best Paper Nomination**
  
  * **Qijun Zhang**, Shiyu Li, Guanglei Zhou, Jingyu Pan, Chen-Chia Chang, Yiran Chen, and Zhiyao Xie, "PANDA: Architecture-Level Power Evaluation by Unifying Analytical and Machine Learning Solutions". In *IEEE/ACM International Conference on Computer Aided Design* (**ICCAD 2023**).
  
@@ -39,7 +39,7 @@ Publication
 
  * Shang Liu, Wenji Fang, Yao Lu, **Qijun Zhang**, and Zhiyao Xie, "Towards Big Data in AI for EDA Research: Generation of New Pseudo Circuits at RTL Stage". In *Asia and South Pacific Design Automation Conference* (**ASP-DAC 2025**).
 
- * Shang Liu, Wenji Fang, Yao Lu, **Qijun Zhang**, Hongce Zhang, and Zhiyao Xie, "RTLCoder: Outperforming GPT-3.5 in Design RTL Generation with Our Open-Source Dataset and Lightweight Solution". In *IEEE International Workshop on LLM-Aided Design* (**LAD 2024**).
+ * Shang Liu, Wenji Fang, Yao Lu, **Qijun Zhang**, Hongce Zhang, and Zhiyao Xie, "RTLCoder: Outperforming GPT-3.5 in Design RTL Generation with Our Open-Source Dataset and Lightweight Solution". In *IEEE International Workshop on LLM-Aided Design* (**LAD 2024**). **Best Paper Nomination**
 
  * Yao Lu, Shang Liu, **Qijun Zhang**, and Zhiyao Xie, "RTLLM: An Open-Source Benchmark for Design RTL Generation with Large Language Model". In *Asia and South Pacific Design Automation Conference* (**ASP-DAC 2024**).
 
