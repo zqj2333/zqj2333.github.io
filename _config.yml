@@ -21,7 +21,7 @@ repository               : "zqj2333.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio-photo-2.jpg"
+  avatar           : "homepage.png" # "bio-photo-2.jpg"
   name             : "Qijun Zhang"
   pronouns         : # example: "she/her"  
   bio              : "PhD student at HKUST"
