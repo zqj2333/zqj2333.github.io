@@ -21,6 +21,8 @@ Education
 
 Publication
 ======
+ * **Qijun Zhang**, Yao Lu, Mengming Li, and Zhiyao Xie, "AutoPower: Automated Few-Shot Architecture-Level Power Modeling by Power Group Decoupling". In *ACM/IEEE Design Automation Conference* (**DAC 2025**).
+
  * Mengming Li\*, **Qijun Zhang**\*, Yongqing Ren, and Zhiyao Xie, "Integrating Prefetcher Selection with Dynamic Request Allocation Improves Prefetching Efficiency". In *31th IEEE International Symposium on High-Performance Computer Architecture* (**HPCA 2025**).
  
  * **Qijun Zhang**, Mengming Li, Andrea Mondelli, and Zhiyao Xie, "An Architecture-Level CPU Modeling Framework for Power and Other Design Qualities". In *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* (**TCAD**), 2025.
@@ -32,6 +34,8 @@ Publication
  * Yao Lu\*, **Qijun Zhang**\*, and Zhiyao Xie, "Unleashing Flexibility of ML-based Power Estimators Through Efficient Development Strategies". In *ACM/IEEE International Symposium on Low Power Electronics and Design* (**ISLPED 2024**). **Best Paper Nomination**
  
  * **Qijun Zhang**, Shiyu Li, Guanglei Zhou, Jingyu Pan, Chen-Chia Chang, Yiran Chen, and Zhiyao Xie, "PANDA: Architecture-Level Power Evaluation by Unifying Analytical and Machine Learning Solutions". In *IEEE/ACM International Conference on Computer Aided Design* (**ICCAD 2023**).
+
+ * Wenkai Li, Yao Lu, Wenji Fang, Jing Wang, **Qijun Zhang**, and Zhiyao Xie, "ATLAS: A Self-Supervised and Cross-Stage Netlist Power Model for Fine-Grained Time-Based Layout Power Analysis". In *ACM/IEEE Design Automation Conference* (**DAC 2025**).
  
  * Shang Liu, Wenji Fang, Yao Lu, Jing Wang, **Qijun Zhang**, Hongce Zhang, and Zhiyao Xie, "RTLCoder: Fully Open-Source and Efficient LLM-Assisted RTL Code Generation Technique". In *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* (**TCAD**), 2025.
 
