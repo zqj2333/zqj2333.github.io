@@ -35,6 +35,8 @@ Publication
  
  * **Qijun Zhang**, Shiyu Li, Guanglei Zhou, Jingyu Pan, Chen-Chia Chang, Yiran Chen, and Zhiyao Xie, "PANDA: Architecture-Level Power Evaluation by Unifying Analytical and Machine Learning Solutions". In *IEEE/ACM International Conference on Computer Aided Design* (**ICCAD 2023**).
 
+ * Mengming Li, **Qijun Zhang**, Yichuan Gao, Wenji Fang, Yao Lu, Yongqing Ren, and Zhiyao Xie, "Profile-Guided Temporal Prefetching". In *52th Annual International Symposium on Computer Architecture* (**ISCA 2025**).
+
  * Wenkai Li, Yao Lu, Wenji Fang, Jing Wang, **Qijun Zhang**, and Zhiyao Xie, "ATLAS: A Self-Supervised and Cross-Stage Netlist Power Model for Fine-Grained Time-Based Layout Power Analysis". In *ACM/IEEE Design Automation Conference* (**DAC 2025**).
  
  * Shang Liu, Wenji Fang, Yao Lu, Jing Wang, **Qijun Zhang**, Hongce Zhang, and Zhiyao Xie, "RTLCoder: Fully Open-Source and Efficient LLM-Assisted RTL Code Generation Technique". In *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* (**TCAD**), 2025.
