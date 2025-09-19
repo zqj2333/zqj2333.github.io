@@ -21,6 +21,10 @@ Education
 
 Publication
 ======
+ * **Qijun Zhang**, Shang Liu, Yao Lu, Mengming Li, and Zhiyao Xie, "ReadyPower: A Reliable, Interpretable, and Handy Architectural Power Model Based on Analytical Framework". In *Asia and South Pacific Design Automation Conference* (**ASP-DAC 2026**).
+
+ * **Qijun Zhang**, Yao Lu, Mengming Li, Shang Liu, and Zhiyao Xie, "ArchPower: Dataset for Architecture-Level Power Modeling of Modern CPU Design". In *39th Annual Conference on Neural Information Processing Systems* (**NeurIPS 2025**).
+
  * **Qijun Zhang**, Yao Lu, Mengming Li, and Zhiyao Xie, "AutoPower: Automated Few-Shot Architecture-Level Power Modeling by Power Group Decoupling". In *ACM/IEEE Design Automation Conference* (**DAC 2025**).
 
  * Mengming Li\*, **Qijun Zhang**\*, Yongqing Ren, and Zhiyao Xie, "Integrating Prefetcher Selection with Dynamic Request Allocation Improves Prefetching Efficiency". In *31th IEEE International Symposium on High-Performance Computer Architecture* (**HPCA 2025**).
