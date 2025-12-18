@@ -22,7 +22,7 @@ Education
 Publication
 ======
 
- * Chen Zhang, **Qijun Zhang†**, Zhuoshan Zhou, Yijia Diao, Haibo Wang, Zhe Zhou, Zhipeng Tu, Zhiyao Li, Zhiyao Xie, Guangyu Sun, Zhuoran Song, Zhigang Ji, Jingwen Leng, and Minyi Guo, "Towards Compute-Aware In-Switch Computing for LLMs Tensor-Parallelism on Multi-GPU Systems". In *32nd International Symposium on High Performance Computer Architecture* (**HPCA 2026**). **(† Corresponding Author)**
+ * Chen Zhang, **Qijun Zhang†**, Zhuoshan Zhou, Yijia Diao, Haibo Wang, Zhe Zhou, Zhipeng Tu, Zhiyao Li, Guangyu Sun, Zhuoran Song, Zhigang Ji, Jingwen Leng, and Minyi Guo, "Towards Compute-Aware In-Switch Computing for LLMs Tensor-Parallelism on Multi-GPU Systems". In *32nd International Symposium on High Performance Computer Architecture* (**HPCA 2026**). **(† Corresponding Author)**
 
  * **Qijun Zhang**, Shang Liu, Yao Lu, Mengming Li, and Zhiyao Xie, "ReadyPower: A Reliable, Interpretable, and Handy Architectural Power Model Based on Analytical Framework". In *Asia and South Pacific Design Automation Conference* (**ASP-DAC 2026**).
 
