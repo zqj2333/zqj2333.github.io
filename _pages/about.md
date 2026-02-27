@@ -19,7 +19,19 @@ Education
  * Ph.D. Electronic and Computer Engineering, the Hong Kong University of Science and Technology, Aug. 2023 - Now
  * B.Eng. Computer Science, Tongji University, Sep. 2018 - Jul. 2022
 
-Publication
+Awards
+======
+ * HKUST RedBird PhD Award for Continuing PhD Students, 2025
+ * ACM/IEEE ISLPED 2024 Best Paper Nomination, 2024
+ * IEEE LAD 2024 Best Paper Nomination, 2024
+ * HKUST RedBird PhD Award for New PhD Students, 2023
+ * HKUST Full Postgraduate Studentship, 2023 - 2027
+ * Tongji University Excellent Graduates, 2022
+ * Tongji University 2nd Prize of Outstanding Student Scholarship, 2021
+ * National Scholarship, 2020
+ * Tongji University 1st Prize of Outstanding Student Scholarship, 2019
+
+Publications
 ======
 
  * **Qijun Zhang**, Yao Lu, Shang Liu, Mengming Li, Chen Zhang, Dongbo Wang, and Zhiyao Xie, "G-Power: Architecture-level GPU Power Modeling with Aggregated Knowledge Foundations from Known GPUs". In *ACM/IEEE Design Automation Conference* (**DAC 2026**).
