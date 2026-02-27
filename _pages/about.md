@@ -21,15 +21,15 @@ Education
 
 Awards
 ======
- * HKUST RedBird PhD Award for Continuing PhD Students, 2025
+ * RedBird PhD Award for Continuing PhD Students, HKUST, 2025
  * ACM/IEEE ISLPED 2024 Best Paper Nomination, 2024
  * IEEE LAD 2024 Best Paper Nomination, 2024
- * HKUST RedBird PhD Award for New PhD Students, 2023
- * HKUST Full Postgraduate Studentship, 2023 - 2027
- * Tongji University Excellent Graduates, 2022
- * Tongji University 2nd Prize of Outstanding Student Scholarship, 2021
+ * RedBird PhD Award for New PhD Students, HKUST, 2023
+ * Full Postgraduate Studentship, HKUST, 2023 - 2027
+ * Excellent Graduates, Tongji University, 2022
+ * 2nd Prize of Outstanding Student Scholarship, Tongji University, 2021
  * National Scholarship, 2020
- * Tongji University 1st Prize of Outstanding Student Scholarship, 2019
+ * 1st Prize of Outstanding Student Scholarship, Tongji University, 2019
 
 Publications
 ======
