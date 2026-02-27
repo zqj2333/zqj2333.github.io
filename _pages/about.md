@@ -22,6 +22,8 @@ Education
 Publication
 ======
 
+ * **Qijun Zhang**, Yao Lu, Shang Liu, Mengming Li, Chen Zhang, Dongbo Wang, and Zhiyao Xie, "G-Power: Architecture-level GPU Power Modeling with Aggregated Knowledge Foundations from Known GPUs". In *ACM/IEEE Design Automation Conference* (**DAC 2026**).
+
  * Chen Zhang, **Qijun Zhang†**, Zhuoshan Zhou, Yijia Diao, Haibo Wang, Zhe Zhou, Zhipeng Tu, Zhiyao Li, Guangyu Sun, Zhuoran Song, Zhigang Ji, Jingwen Leng, and Minyi Guo, "Towards Compute-Aware In-Switch Computing for LLMs Tensor-Parallelism on Multi-GPU Systems". In *32nd International Symposium on High Performance Computer Architecture* (**HPCA 2026**). **(† Corresponding Author)**
 
  * **Qijun Zhang**, Shang Liu, Yao Lu, Mengming Li, and Zhiyao Xie, "ReadyPower: A Reliable, Interpretable, and Handy Architectural Power Model Based on Analytical Framework". In *Asia and South Pacific Design Automation Conference* (**ASP-DAC 2026**).
@@ -41,6 +43,14 @@ Publication
  * Yao Lu\*, **Qijun Zhang**\*, and Zhiyao Xie, "Unleashing Flexibility of ML-based Power Estimators Through Efficient Development Strategies". In *ACM/IEEE International Symposium on Low Power Electronics and Design* (**ISLPED 2024**). **Best Paper Nomination**. **(\* Equal Contribution)**
  
  * **Qijun Zhang**, Shiyu Li, Guanglei Zhou, Jingyu Pan, Chen-Chia Chang, Yiran Chen, and Zhiyao Xie, "PANDA: Architecture-Level Power Evaluation by Unifying Analytical and Machine Learning Solutions". In *IEEE/ACM International Conference on Computer Aided Design* (**ICCAD 2023**).
+
+ * Jay Zhe-An Mok, **Qijun Zhang**, and Zhiyao Xie, "FSGen: Agile Fused and Sparse Accelerator Generator with Accurate Power Model for LLM Applications". In *ACM/IEEE Design Automation Conference* (**DAC 2026**).
+ 
+ * Yao Lu, Zhicheng Guo, **Qijun Zhang**, Shang Liu, Wenji Fang, Wenkai Li, and Zhiyao Xie, "COOL: A Cooling-Aware Point Transformer Framework for Thermal Prediction in Advanced 3D/3.5D IC Packaging". In *ACM/IEEE Design Automation Conference* (**DAC 2026**).
+
+ * Wenkai Li, Yao Lu, Wenji Fang, Yugao Zhu, Ziyan Guo, Jing Wang, Mengming Li, **Qijun Zhang**, and Zhiyao Xie, "A Self-Supervised and Cross-Design Netlist Power Model for Time-Based Layout Power Analysis". In *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* (**TCAD**), 2026.
+
+ * Yugao Zhu, Wenji Fang, Yao Lu, Shang Liu, Yanzhen Zhu, **Qijun Zhang**, and Zhiyao Xie, "MFSPart: A Generalized Partitioning Framework for Multi-FPGA Systems and Its Ensemble-Based Extension". In *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* (**TCAD**), 2026.
 
  * Mengming Li, **Qijun Zhang**, Yichuan Gao, Wenji Fang, Yao Lu, Yongqing Ren, and Zhiyao Xie, "Profile-Guided Temporal Prefetching". In *52th Annual International Symposium on Computer Architecture* (**ISCA 2025**).
 
