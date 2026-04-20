@@ -34,6 +34,8 @@ Awards
 Publications
 ======
 
+ * **Qijun Zhang**, Chen Zhang, Zhuoshan Zhou, Haibo Wang, Zhe Zhou, Zhipeng Tu, Guangyu Sun, Zhiyao Xie, Yijia Diao, Zhigang Ji, Jingwen Leng, Guanghui He, and Minyi Guo, "Tackling MoE Communication Bottleneck with Dynamic In-Switch Computing on Multi-GPUs". In *53rd Annual International Symposium on Computer Architecture* (**ISCA 2026**).
+
  * **Qijun Zhang**, Yao Lu, Shang Liu, Mengming Li, Chen Zhang, Dongbo Wang, and Zhiyao Xie, "G-Power: Architecture-level GPU Power Modeling with Aggregated Knowledge Foundations from Known GPUs". In *ACM/IEEE Design Automation Conference* (**DAC 2026**).
 
  * Chen Zhang, **Qijun Zhang†**, Zhuoshan Zhou, Yijia Diao, Haibo Wang, Zhe Zhou, Zhipeng Tu, Zhiyao Li, Guangyu Sun, Zhuoran Song, Zhigang Ji, Jingwen Leng, and Minyi Guo, "Towards Compute-Aware In-Switch Computing for LLMs Tensor-Parallelism on Multi-GPU Systems". In *32nd International Symposium on High Performance Computer Architecture* (**HPCA 2026**). **(† Corresponding Author)**
@@ -56,6 +58,10 @@ Publications
  
  * **Qijun Zhang**, Shiyu Li, Guanglei Zhou, Jingyu Pan, Chen-Chia Chang, Yiran Chen, and Zhiyao Xie, "PANDA: Architecture-Level Power Evaluation by Unifying Analytical and Machine Learning Solutions". In *IEEE/ACM International Conference on Computer Aided Design* (**ICCAD 2023**).
 
+ * Zhuoshan Zhou, Chen Zhang, Shuyi Zhang, **Qijun Zhang**, Haibo Wang, Zhe Zhou, Zhipeng Tu, Guangyu Sun, Yijia Diao, Zhigang Ji, Jingwen Leng, Guanghui He, and Minyi Guo, "MoE-Hub: Taming Software Complexity for Seamless MoE Overlap with Hardware-Accelerated Communication on Multi-GPU Systems". In *53rd Annual International Symposium on Computer Architecture* (**ISCA 2026**).
+
+ * Mengming Li, Chenlu Miao, Buqing Xu, **Qijun Zhang**, Xiangfeng Sun, Ceyu Xu, Yuan Xie, Wenkai Li, Shang Liu, and Zhiyao Xie, "ICP: Exploiting Instruction Correlation for Prefetching Irregular Memory Accesses". In *53rd Annual International Symposium on Computer Architecture* (**ISCA 2026**).
+
  * Jay Zhe-An Mok, **Qijun Zhang**, and Zhiyao Xie, "FSGen: Agile Fused and Sparse Accelerator Generator with Accurate Power Model for LLM Applications". In *ACM/IEEE Design Automation Conference* (**DAC 2026**).
  
  * Yao Lu, Zhicheng Guo, **Qijun Zhang**, Shang Liu, Wenji Fang, Wenkai Li, and Zhiyao Xie, "COOL: A Cooling-Aware Point Transformer Framework for Thermal Prediction in Advanced 3D/3.5D IC Packaging". In *ACM/IEEE Design Automation Conference* (**DAC 2026**).
@@ -64,7 +70,7 @@ Publications
 
  * Yugao Zhu, Wenji Fang, Yao Lu, Shang Liu, Yanzhen Zhu, **Qijun Zhang**, and Zhiyao Xie, "MFSPart: A Generalized Partitioning Framework for Multi-FPGA Systems and Its Ensemble-Based Extension". In *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems* (**TCAD**), 2026.
 
- * Mengming Li, **Qijun Zhang**, Yichuan Gao, Wenji Fang, Yao Lu, Yongqing Ren, and Zhiyao Xie, "Profile-Guided Temporal Prefetching". In *52th Annual International Symposium on Computer Architecture* (**ISCA 2025**).
+ * Mengming Li, **Qijun Zhang**, Yichuan Gao, Wenji Fang, Yao Lu, Yongqing Ren, and Zhiyao Xie, "Profile-Guided Temporal Prefetching". In *52nd Annual International Symposium on Computer Architecture* (**ISCA 2025**).
 
  * Wenkai Li, Yao Lu, Wenji Fang, Jing Wang, **Qijun Zhang**, and Zhiyao Xie, "ATLAS: A Self-Supervised and Cross-Stage Netlist Power Model for Fine-Grained Time-Based Layout Power Analysis". In *ACM/IEEE Design Automation Conference* (**DAC 2025**).
  
