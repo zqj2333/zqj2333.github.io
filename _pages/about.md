@@ -11,8 +11,8 @@ I am Qijun Zhang, a third-year PhD student at the Electronic and Computer Engine
 
 Research Interests
 ======
- * Architecture-Level Processor Power Modeling
- * GPU Scale-Up Interconnect Architecture
+ * Architecture-Level Power Modeling
+ * Scale-Up Interconnect Architecture
 
 Education
 ======
