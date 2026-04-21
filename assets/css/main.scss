@@ -63,8 +63,9 @@
 }
 
 .publication-title-line {
-  font-weight: 600;
-  color: #52adc8;
+  color: DarkBlue;
+  font-size: 1em;
+  font-weight: 400;
 }
 
 .publication-title-line .btn {
@@ -80,8 +81,21 @@
   vertical-align: baseline;
 }
 
+.publication-authors-line {
+  color: DimGray;
+  font-size: 85%;
+}
+
+.publication-meta-line {
+  font-size: 95%;
+}
+
 .publication-meta-line,
 .publication-note-line {
   color: #555;
-  font-size: 0.95em;
+}
+
+.publication-note-line {
+  color: red;
+  font-size: 90%;
 }
