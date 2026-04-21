@@ -6,31 +6,55 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <p class="page-intro">A Google Scholar version of this list is also available on <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.</p>
 {% endif %}
 
-{% include base_path %}
+<div class="publication-year">
+  <h2>2026</h2>
+  <div class="publication-list">
+    <article class="publication-item"><div class="publication-icon"><i class="fas fa-file-alt"></i></div><div class="publication-content"><div class="publication-title">ISCA'26 Tackling MoE Communication Bottleneck with Dynamic In-Switch Computing on Multi-GPUs</div><div class="publication-authors"><strong>Qijun Zhang</strong>, Chen Zhang, Zhuoshan Zhou, Haibo Wang, Zhe Zhou, Zhipeng Tu, Guangyu Sun, Zhiyao Xie, Yijia Diao, Zhigang Ji, Jingwen Leng, Guanghui He, and Minyi Guo</div><div class="publication-meta">International Symposium on Computer Architecture (ISCA), 2026.</div></div></article>
+    <article class="publication-item"><div class="publication-icon"><i class="fas fa-file-alt"></i></div><div class="publication-content"><div class="publication-title">DAC'26 G-Power: Architecture-level GPU Power Modeling with Aggregated Knowledge Foundations from Known GPUs</div><div class="publication-authors"><strong>Qijun Zhang</strong>, Yao Lu, Shang Liu, Mengming Li, Chen Zhang, Dongbo Wang, and Zhiyao Xie</div><div class="publication-meta">ACM/IEEE Design Automation Conference (DAC), 2026.</div></div></article>
+    <article class="publication-item"><div class="publication-icon"><i class="fas fa-file-alt"></i></div><div class="publication-content"><div class="publication-title">HPCA'26 Towards Compute-Aware In-Switch Computing for LLMs Tensor-Parallelism on Multi-GPU Systems</div><div class="publication-authors">Chen Zhang, <strong>Qijun Zhang&#8224;</strong>, Zhuoshan Zhou, Yijia Diao, Haibo Wang, Zhe Zhou, Zhipeng Tu, Zhiyao Li, Guangyu Sun, Zhuoran Song, Zhigang Ji, Jingwen Leng, and Minyi Guo</div><div class="publication-meta">IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2026. <strong>(&#8224; Corresponding Author)</strong></div></div></article>
+    <article class="publication-item"><div class="publication-icon"><i class="fas fa-file-alt"></i></div><div class="publication-content"><div class="publication-title">ASP-DAC'26 ReadyPower: A Reliable, Interpretable, and Handy Architectural Power Model Based on Analytical Framework</div><div class="publication-authors"><strong>Qijun Zhang</strong>, Shang Liu, Yao Lu, Mengming Li, and Zhiyao Xie</div><div class="publication-meta">Asia and South Pacific Design Automation Conference (ASP-DAC), 2026.</div></div></article>
+    <article class="publication-item"><div class="publication-icon"><i class="fas fa-file-alt"></i></div><div class="publication-content"><div class="publication-title">ISCA'26 MoE-Hub: Taming Software Complexity for Seamless MoE Overlap with Hardware-Accelerated Communication on Multi-GPU Systems</div><div class="publication-authors">Zhuoshan Zhou, Chen Zhang, Shuyi Zhang, <strong>Qijun Zhang</strong>, Haibo Wang, Zhe Zhou, Zhipeng Tu, Guangyu Sun, Yijia Diao, Zhigang Ji, Jingwen Leng, Guanghui He, and Minyi Guo</div><div class="publication-meta">International Symposium on Computer Architecture (ISCA), 2026.</div></div></article>
+    <article class="publication-item"><div class="publication-icon"><i class="fas fa-file-alt"></i></div><div class="publication-content"><div class="publication-title">ISCA'26 ICP: Exploiting Instruction Correlation for Prefetching Irregular Memory Accesses</div><div class="publication-authors">Mengming Li, Chenlu Miao, Buqing Xu, <strong>Qijun Zhang</strong>, Xiangfeng Sun, Ceyu Xu, Yuan Xie, Wenkai Li, Shang Liu, and Zhiyao Xie</div><div class="publication-meta">International Symposium on Computer Architecture (ISCA), 2026.</div></div></article>
+    <article class="publication-item"><div class="publication-icon"><i class="fas fa-file-alt"></i></div><div class="publication-content"><div class="publication-title">DAC'26 FSGen: Agile Fused and Sparse Accelerator Generator with Accurate Power Model for LLM Applications</div><div class="publication-authors">Jay Zhe-An Mok, <strong>Qijun Zhang</strong>, and Zhiyao Xie</div><div class="publication-meta">ACM/IEEE Design Automation Conference (DAC), 2026.</div></div></article>
+    <article class="publication-item"><div class="publication-icon"><i class="fas fa-file-alt"></i></div><div class="publication-content"><div class="publication-title">DAC'26 COOL: A Cooling-Aware Point Transformer Framework for Thermal Prediction in Advanced 3D/3.5D IC Packaging</div><div class="publication-authors">Yao Lu, Zhicheng Guo, <strong>Qijun Zhang</strong>, Shang Liu, Wenji Fang, Wenkai Li, and Zhiyao Xie</div><div class="publication-meta">ACM/IEEE Design Automation Conference (DAC), 2026.</div></div></article>
+    <article class="publication-item"><div class="publication-icon"><i class="fas fa-file-alt"></i></div><div class="publication-content"><div class="publication-title">TCAD'26 A Self-Supervised and Cross-Design Netlist Power Model for Time-Based Layout Power Analysis</div><div class="publication-authors">Wenkai Li, Yao Lu, Wenji Fang, Yugao Zhu, Ziyan Guo, Jing Wang, Mengming Li, <strong>Qijun Zhang</strong>, and Zhiyao Xie</div><div class="publication-meta">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026.</div></div></article>
+    <article class="publication-item"><div class="publication-icon"><i class="fas fa-file-alt"></i></div><div class="publication-content"><div class="publication-title">TCAD'26 MFSPart: A Generalized Partitioning Framework for Multi-FPGA Systems and Its Ensemble-Based Extension</div><div class="publication-authors">Yugao Zhu, Wenji Fang, Yao Lu, Shang Liu, Yanzhen Zhu, <strong>Qijun Zhang</strong>, and Zhiyao Xie</div><div class="publication-meta">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026.</div></div></article>
+  </div>
+</div>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<div class="publication-year">
+  <h2>2025</h2>
+  <div class="publication-list">
+    <article class="publication-item"><div class="publication-icon"><i class="fas fa-file-alt"></i></div><div class="publication-content"><div class="publication-title">NeurIPS'25 ArchPower: Dataset for Architecture-Level Power Modeling of Modern CPU Design</div><div class="publication-authors"><strong>Qijun Zhang</strong>, Yao Lu, Mengming Li, Shang Liu, and Zhiyao Xie</div><div class="publication-meta">Advances in Neural Information Processing Systems (NeurIPS), 2025.</div></div></article>
+    <article class="publication-item"><div class="publication-icon"><i class="fas fa-file-alt"></i></div><div class="publication-content"><div class="publication-title">DAC'25 AutoPower: Automated Few-Shot Architecture-Level Power Modeling by Power Group Decoupling</div><div class="publication-authors"><strong>Qijun Zhang</strong>, Yao Lu, Mengming Li, and Zhiyao Xie</div><div class="publication-meta">ACM/IEEE Design Automation Conference (DAC), 2025.</div></div></article>
+    <article class="publication-item"><div class="publication-icon"><i class="fas fa-file-alt"></i></div><div class="publication-content"><div class="publication-title">HPCA'25 Integrating Prefetcher Selection with Dynamic Request Allocation Improves Prefetching Efficiency</div><div class="publication-authors">Mengming Li*, <strong>Qijun Zhang</strong>*, Yongqing Ren, and Zhiyao Xie</div><div class="publication-meta">IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2025. <strong>(* Equal Contribution)</strong></div></div></article>
+    <article class="publication-item"><div class="publication-icon"><i class="fas fa-file-alt"></i></div><div class="publication-content"><div class="publication-title">TCAD'25 An Architecture-Level CPU Modeling Framework for Power and Other Design Qualities</div><div class="publication-authors"><strong>Qijun Zhang</strong>, Mengming Li, Andrea Mondelli, and Zhiyao Xie</div><div class="publication-meta">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025.</div></div></article>
+    <article class="publication-item"><div class="publication-icon"><i class="fas fa-file-alt"></i></div><div class="publication-content"><div class="publication-title">ASP-DAC'25 FirePower: Towards a Foundation with Generalizable Knowledge for Architecture-Level Power Modeling</div><div class="publication-authors"><strong>Qijun Zhang</strong>, Mengming Li, Yao Lu, and Zhiyao Xie</div><div class="publication-meta">Asia and South Pacific Design Automation Conference (ASP-DAC), 2025.</div></div></article>
+    <article class="publication-item"><div class="publication-icon"><i class="fas fa-file-alt"></i></div><div class="publication-content"><div class="publication-title">ASP-DAC'25 Pointer: An Energy-Efficient ReRAM-based Point Cloud Recognition Accelerator with Inter-layer and Intra-layer Optimizations</div><div class="publication-authors"><strong>Qijun Zhang</strong> and Zhiyao Xie</div><div class="publication-meta">Asia and South Pacific Design Automation Conference (ASP-DAC), 2025.</div></div></article>
+    <article class="publication-item"><div class="publication-icon"><i class="fas fa-file-alt"></i></div><div class="publication-content"><div class="publication-title">ISCA'25 Profile-Guided Temporal Prefetching</div><div class="publication-authors">Mengming Li, <strong>Qijun Zhang</strong>, Yichuan Gao, Wenji Fang, Yao Lu, Yongqing Ren, and Zhiyao Xie</div><div class="publication-meta">International Symposium on Computer Architecture (ISCA), 2025.</div></div></article>
+    <article class="publication-item"><div class="publication-icon"><i class="fas fa-file-alt"></i></div><div class="publication-content"><div class="publication-title">DAC'25 ATLAS: A Self-Supervised and Cross-Stage Netlist Power Model for Fine-Grained Time-Based Layout Power Analysis</div><div class="publication-authors">Wenkai Li, Yao Lu, Wenji Fang, Jing Wang, <strong>Qijun Zhang</strong>, and Zhiyao Xie</div><div class="publication-meta">ACM/IEEE Design Automation Conference (DAC), 2025.</div></div></article>
+    <article class="publication-item"><div class="publication-icon"><i class="fas fa-file-alt"></i></div><div class="publication-content"><div class="publication-title">TCAD'25 RTLCoder: Fully Open-Source and Efficient LLM-Assisted RTL Code Generation Technique</div><div class="publication-authors">Shang Liu, Wenji Fang, Yao Lu, Jing Wang, <strong>Qijun Zhang</strong>, Hongce Zhang, and Zhiyao Xie</div><div class="publication-meta">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025.</div></div></article>
+    <article class="publication-item"><div class="publication-icon"><i class="fas fa-file-alt"></i></div><div class="publication-content"><div class="publication-title">TCAD'25 Transferable Pre-Synthesis PPA Estimation for RTL Designs with Data Augmentation Techniques</div><div class="publication-authors">Wenji Fang, Yao Lu, Shang Liu, <strong>Qijun Zhang</strong>, Ceyu Xu, Lisa Wu Wills, Hongce Zhang, and Zhiyao Xie</div><div class="publication-meta">IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2025.</div></div></article>
+    <article class="publication-item"><div class="publication-icon"><i class="fas fa-file-alt"></i></div><div class="publication-content"><div class="publication-title">ASP-DAC'25 Towards Big Data in AI for EDA Research: Generation of New Pseudo Circuits at RTL Stage</div><div class="publication-authors">Shang Liu, Wenji Fang, Yao Lu, <strong>Qijun Zhang</strong>, and Zhiyao Xie</div><div class="publication-meta">Asia and South Pacific Design Automation Conference (ASP-DAC), 2025.</div></div></article>
+  </div>
+</div>
 
+<div class="publication-year">
+  <h2>2024</h2>
+  <div class="publication-list">
+    <article class="publication-item"><div class="publication-icon"><i class="fas fa-file-alt"></i></div><div class="publication-content"><div class="publication-title">ISLPED'24 Unleashing Flexibility of ML-based Power Estimators Through Efficient Development Strategies</div><div class="publication-authors">Yao Lu*, <strong>Qijun Zhang</strong>*, and Zhiyao Xie</div><div class="publication-meta">ACM/IEEE International Symposium on Low Power Electronics and Design (ISLPED), 2024. <strong>Best Paper Nomination</strong>. <strong>(* Equal Contribution)</strong></div></div></article>
+    <article class="publication-item"><div class="publication-icon"><i class="fas fa-file-alt"></i></div><div class="publication-content"><div class="publication-title">LAD'24 RTLCoder: Outperforming GPT-3.5 in Design RTL Generation with Our Open-Source Dataset and Lightweight Solution</div><div class="publication-authors">Shang Liu, Wenji Fang, Yao Lu, <strong>Qijun Zhang</strong>, Hongce Zhang, and Zhiyao Xie</div><div class="publication-meta">IEEE International Workshop on LLM-Aided Design (LAD), 2024. <strong>Best Paper Nomination</strong></div></div></article>
+    <article class="publication-item"><div class="publication-icon"><i class="fas fa-file-alt"></i></div><div class="publication-content"><div class="publication-title">ASP-DAC'24 RTLLM: An Open-Source Benchmark for Design RTL Generation with Large Language Model</div><div class="publication-authors">Yao Lu, Shang Liu, <strong>Qijun Zhang</strong>, and Zhiyao Xie</div><div class="publication-meta">Asia and South Pacific Design Automation Conference (ASP-DAC), 2024.</div></div></article>
+  </div>
+</div>
 
-
+<div class="publication-year">
+  <h2>2023</h2>
+  <div class="publication-list">
+    <article class="publication-item"><div class="publication-icon"><i class="fas fa-file-alt"></i></div><div class="publication-content"><div class="publication-title">ICCAD'23 PANDA: Architecture-Level Power Evaluation by Unifying Analytical and Machine Learning Solutions</div><div class="publication-authors"><strong>Qijun Zhang</strong>, Shiyu Li, Guanglei Zhou, Jingyu Pan, Chen-Chia Chang, Yiran Chen, and Zhiyao Xie</div><div class="publication-meta">IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2023.</div></div></article>
+    <article class="publication-item"><div class="publication-icon"><i class="fas fa-file-alt"></i></div><div class="publication-content"><div class="publication-title">ICCAD'23 MasterRTL: A Pre-Synthesis PPA Estimation Framework for Any RTL Design</div><div class="publication-authors">Wenji Fang, Yao Lu, Shang Liu, <strong>Qijun Zhang</strong>, Ceyu Xu, Lisa Wu Wills, Hongce Zhang, and Zhiyao Xie</div><div class="publication-meta">IEEE/ACM International Conference on Computer Aided Design (ICCAD), 2023.</div></div></article>
+  </div>
+</div>
