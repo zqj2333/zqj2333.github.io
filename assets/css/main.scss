@@ -45,22 +45,6 @@
   margin-bottom: 1.25rem;
 }
 
-.btn--paper {
-  background-color: #5b8def;
-
-  &:hover {
-    background-color: mix(#000, #5b8def, 20%);
-  }
-}
-
-.btn--orange {
-  background-color: #d97706;
-
-  &:hover {
-    background-color: mix(#000, #d97706, 20%);
-  }
-}
-
 .publication-year-title {
   margin-top: 1.75rem;
   margin-bottom: 0.75rem;
@@ -80,6 +64,7 @@
 
 .publication-title-line {
   font-weight: 600;
+  color: $link-color;
 }
 
 .publication-title-line .btn {
