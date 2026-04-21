@@ -39,3 +39,50 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+.page-intro {
+  font-size: 1.05em;
+  margin-bottom: 1.25rem;
+}
+
+.publication-year {
+  margin-bottom: 2.25rem;
+}
+
+.publication-list {
+  margin-top: 0.75rem;
+}
+
+.publication-item {
+  display: flex;
+  gap: 0.9rem;
+  align-items: flex-start;
+  margin-bottom: 1rem;
+}
+
+.publication-icon {
+  color: #2563eb;
+  font-size: 1rem;
+  line-height: 1.6;
+  width: 1rem;
+  flex: 0 0 1rem;
+  margin-top: 0.15rem;
+}
+
+.publication-content {
+  min-width: 0;
+}
+
+.publication-title {
+  font-weight: 600;
+  margin-bottom: 0.15rem;
+}
+
+.publication-authors {
+  margin-bottom: 0.15rem;
+}
+
+.publication-meta {
+  color: #555;
+  font-size: 0.95em;
+}
