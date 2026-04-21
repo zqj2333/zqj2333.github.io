@@ -45,44 +45,50 @@
   margin-bottom: 1.25rem;
 }
 
-.publication-year {
-  margin-bottom: 2.25rem;
+.btn--paper {
+  background-color: #5b8def;
+
+  &:hover {
+    background-color: mix(#000, #5b8def, 20%);
+  }
 }
 
-.publication-list {
-  margin-top: 0.75rem;
+.btn--orange {
+  background-color: #d97706;
+
+  &:hover {
+    background-color: mix(#000, #d97706, 20%);
+  }
 }
 
-.publication-item {
-  display: flex;
-  gap: 0.9rem;
-  align-items: flex-start;
+.publication-year-title {
+  margin-top: 1.75rem;
+  margin-bottom: 0.75rem;
+  font-weight: 600;
+}
+
+.publication-entry {
   margin-bottom: 1rem;
 }
 
-.publication-icon {
-  color: #2563eb;
-  font-size: 1rem;
-  line-height: 1.6;
-  width: 1rem;
-  flex: 0 0 1rem;
-  margin-top: 0.15rem;
+.publication-title-line,
+.publication-authors-line,
+.publication-meta-line,
+.publication-note-line {
+  margin: 0.15rem 0;
 }
 
-.publication-content {
-  min-width: 0;
-}
-
-.publication-title {
+.publication-title-line {
   font-weight: 600;
-  margin-bottom: 0.15rem;
 }
 
-.publication-authors {
-  margin-bottom: 0.15rem;
+.publication-title-line .btn {
+  margin-right: 0.45rem;
+  vertical-align: baseline;
 }
 
-.publication-meta {
+.publication-meta-line,
+.publication-note-line {
   color: #555;
   font-size: 0.95em;
 }
