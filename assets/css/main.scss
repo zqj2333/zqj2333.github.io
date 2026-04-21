@@ -64,11 +64,19 @@
 
 .publication-title-line {
   font-weight: 600;
-  color: $link-color;
+  color: #52adc8;
 }
 
 .publication-title-line .btn {
-  margin-right: 0.45rem;
+  margin-bottom: 0.25em;
+  margin-right: 0.15em;
+  padding: 0.125em 0.2em;
+  color: rgb(255, 255, 255) !important;
+  font-size: 0.75em;
+  font-weight: bold;
+  text-decoration: none !important;
+  background-color: #55acee;
+  border: 0 !important;
   vertical-align: baseline;
 }
 
