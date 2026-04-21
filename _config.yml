@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Qijun Zhang"
 title_separator          : "-"
 name                     : &name "Qijun Zhang"
-description              : &description "PhD student at HKUST"
+description              : &description "Ph.D. student in Electronic and Computer Engineering at HKUST"
 url                      : https://zqj2333.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zqj2333.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "homepage.png" # "bio-photo-2.jpg"
   name             : "Qijun Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student at HKUST"
+  bio              : "Ph.D. Student, ECE, HKUST"
   location         : "Hong Kong"
   employer         : # "Red Brick University"
   uri              : # URL
@@ -32,7 +32,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=O79FXLgAAAAJ&hl=en&oi=ao"
   impactstory      : # URL
   orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
@@ -213,16 +213,16 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
