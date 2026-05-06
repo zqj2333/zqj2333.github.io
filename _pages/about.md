@@ -24,7 +24,7 @@ Research Interests
 Selected Publications
 ======
 
-* **Qijun Zhang**, Chen Zhang, Zhuoshan Zhou, Haibo Wang, Zhe Zhou, Zhipeng Tu, Guangyu Sun, Zhiyao Xie, Yijia Diao, Zhigang Ji, Jingwen Leng, Guanghui He, and Minyi Guo, "Tackling MoE Communication Bottleneck with Dynamic In-Switch Computing on Multi-GPUs". In *53rd Annual International Symposium on Computer Architecture* (**ISCA 2026**).
+* **Qijun Zhang**, Chen Zhang, Zhuoshan Zhou, Haibo Wang, Zhe Zhou, Zhipeng Tu, Guangyu Sun, Zhiyao Xie, Yijia Diao, Zhigang Ji, Jingwen Leng, Guanghui He, and Minyi Guo, "Accelerating MoE with Dynamic In-Switch Computing on Multi-GPUs". In *53rd Annual International Symposium on Computer Architecture* (**ISCA 2026**).
 
 * **Qijun Zhang**, Yao Lu, Shang Liu, Mengming Li, Chen Zhang, Dongbo Wang, and Zhiyao Xie, "G-Power: Architecture-level GPU Power Modeling with Aggregated Knowledge Foundations from Known GPUs". In *ACM/IEEE Design Automation Conference* (**DAC 2026**).
 
