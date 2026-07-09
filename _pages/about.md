@@ -9,7 +9,7 @@ redirect_from:
 
 I am Qijun Zhang, a third-year Ph.D. student in the Department of Electronic and Computer Engineering at the Hong Kong University of Science and Technology (HKUST), advised by Prof. [Zhiyao Xie](https://zhiyaoxie.com/). Before joining HKUST, I received my B.Eng. in Computer Science from Tongji University in 2022.
 
-My research lies at the intersection of computer architecture and electronic design automation, with a particular focus on GPU scale-up architecture and architecture-level power modeling. My work has appeared in ISCA, HPCA, DAC, ICCAD, ASP-DAC, TCAD, and NeurIPS. A complete list of publications is available on my [Publications](/publications/) page and [Google Scholar](https://scholar.google.com/citations?user=O79FXLgAAAAJ&hl=en&oi=ao).
+My research lies at the intersection of computer architecture and electronic design automation, with a particular focus on GPU scale-up architecture and architecture-level power modeling. My work has appeared in ISCA, MICRO, HPCA, DAC, ICCAD, ASP-DAC, TCAD, and NeurIPS. A complete list of publications is available on my [Publications](/publications/) page and [Google Scholar](https://scholar.google.com/citations?user=O79FXLgAAAAJ&hl=en&oi=ao).
 
 Education
 ======
