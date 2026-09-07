@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am Qijun Zhang, a third-year Ph.D. student in the Department of Electronic and Computer Engineering at the Hong Kong University of Science and Technology (HKUST), advised by Prof. [Zhiyao Xie](https://zhiyaoxie.com/). Before joining HKUST, I received my B.Eng. in Computer Science from Tongji University in 2022.
+I am Qijun Zhang, a final-year Ph.D. student in the Department of Electronic and Computer Engineering at the Hong Kong University of Science and Technology (HKUST), advised by Prof. [Zhiyao Xie](https://zhiyaoxie.com/). Before joining HKUST, I received my B.Eng. in Computer Science from Tongji University in 2022.
 
-My research lies at the intersection of computer architecture and electronic design automation, with a particular focus on GPU scale-up architecture and architecture-level power modeling. My work has appeared in ISCA, MICRO, HPCA, DAC, ICCAD, ASP-DAC, TCAD, and NeurIPS. A complete list of publications is available on my [Publications](/publications/) page and [Google Scholar](https://scholar.google.com/citations?user=O79FXLgAAAAJ&hl=en&oi=ao).
+My research lies at the intersection of computer architecture and electronic design automation, with a particular focus on GPU architecture, scale-up interconnect architecture, CPU microarchitecture, and processor power modeling. My work has appeared in ISCA, MICRO, HPCA, DAC, ICCAD, ASP-DAC, TCAD, and NeurIPS. A complete list of publications is available on my [Publications](/publications/) page and [Google Scholar](https://scholar.google.com/citations?user=O79FXLgAAAAJ&hl=en&oi=ao).
 
 Education
 ======
@@ -18,11 +18,14 @@ Education
 
 Research Interests
 ======
-* GPU scale-up architecture
-* Architecture-level power modeling
+* GPU architecture
+* Scale-up interconnect architecture
+* CPU microarchitecture
+* Processor power modeling
 
 Selected Publications
 ======
+* **Qijun Zhang**, Yao Lu, Yanqin Li, Mengming Li, Wenkai Li, Shang Liu, Andrea Mondelli, and Zhiyao Xie, "UnifyPower: A Unified Framework of Architecture-Level Power Model for Processors". In *Asia and South Pacific Design Automation Conference* (**ASP-DAC 2027**).
 
 * **Qijun Zhang**, Jingchen Zhu, Chen Zhang, Zixiao Chen, Yiqi Chen, Mengming Li, Guangyu Sun, Cheng Zhang, Zhe Zhou, and Zhiyao Xie, "Beyond Linear Scaling for LLM Training on Wafer-Scale GPUs". In *IEEE/ACM International Symposium on Microarchitecture* (**MICRO 2026**).
 
@@ -52,7 +55,7 @@ Selected Publications
 
 Honors and Awards
 ======
-* RedBird PhD Award for Continuing PhD Students, HKUST, 2025
+* RedBird PhD Award for Continuing PhD Students, HKUST, 2025, 2026
 * ACM/IEEE ISLPED 2024 Best Paper Nomination, 2024
 * IEEE LAD 2024 Best Paper Nomination, 2024
 * RedBird PhD Award for New PhD Students, HKUST, 2023
